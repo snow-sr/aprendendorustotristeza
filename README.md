@@ -1,4 +1,4 @@
-# aprendendorustotristeza
+# aprendendo rust o tristeza
 <span style="text decoration:underline;"><u>eduardo vc me paga!!! </u></span>
 
 tenho que aprender rust.
